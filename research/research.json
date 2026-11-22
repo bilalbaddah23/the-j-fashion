@@ -1,0 +1,322 @@
+{
+  "brand": "The J Fashion",
+  "handle": "the.j.fashion",
+  "instagram": "https://www.instagram.com/the.j.fashion/",
+  "contactMode": "instagram",
+  "phone": "",
+  "displayPhone": "",
+  "publicPhoneObserved": "",
+  "hours": "Contact The J on Instagram for enquiries",
+  "followersObserved": null,
+  "followersDisplay": "139K",
+  "latestVisiblePost": "2026-11-22",
+  "researchDate": "2026-11-22",
+  "profileBio": "By @joudi.abssi\nOwner @unique.cos.lb\nOwner @the.j.stock.sale\nCasual, chic\nIn Lebanon\nShipping worldwide\nTo order DM",
+  "bioLinks": [],
+  "branches": [],
+  "about": "The J shares a casual, chic clothing edit from Lebanon. Browse photographed zip-front coordinates, contrasting piping, collared looks and softly draped silhouettes. Save your favourites and send the collection details to The J on Instagram to confirm the pieces you love.",
+  "heroImage": "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\01.jpg",
+  "storyImage": "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\03.jpg",
+  "galleryImages": [
+    "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\01.jpg",
+    "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\02.jpg",
+    "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\03.jpg",
+    "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\04.jpg",
+    "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\05.jpg",
+    "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\06.jpg",
+    "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\07.jpg",
+    "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\08.jpg",
+    "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\09.jpg",
+    "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\11.jpg",
+    "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\12.jpg"
+  ],
+  "products": [
+    {
+      "id": "dark-brown-zip-coordinates",
+      "name": "Dark Brown Zip Coordinates",
+      "category": "Zip front looks",
+      "description": "A fitted dark brown zip-front top styled with matching-looking flared trousers. Message The J to confirm the exact garment, fit, colour, current availability and price. Tops, accessories, shoes and separate styling pieces are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\01.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/the.j.fashion/p/DgCo6lrDomx/",
+      "sourcePosts": [
+        "https://www.instagram.com/the.j.fashion/p/DgCo6lrDomx/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with The J"
+      ]
+    },
+    {
+      "id": "plum-zip-coordinates",
+      "name": "Plum Zip Coordinates",
+      "category": "Zip front looks",
+      "description": "A deep plum zip-front top styled with matching-looking flared trousers. Message The J to confirm the exact garment, fit, colour, current availability and price. Tops, accessories, shoes and separate styling pieces are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\02.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/the.j.fashion/reel/DgCnu_6u5WN/",
+      "sourcePosts": [
+        "https://www.instagram.com/the.j.fashion/reel/DgCnu_6u5WN/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with The J"
+      ]
+    },
+    {
+      "id": "collared-button-edit",
+      "name": "Collared Button Edit",
+      "category": "Collared looks",
+      "description": "Black and cream collared button-front looks with small chest and hip motifs and drawstring trousers. Ask about your preferred colour and the individual pieces. Message The J to confirm the exact garment, fit, colour, current availability and price. Tops, accessories, shoes and separate styling pieces are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\03.jpg",
+        "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\04.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/the.j.fashion/p/DgAvXigljUH/",
+      "sourcePosts": [
+        "https://www.instagram.com/the.j.fashion/p/DgAvXigljUH/",
+        "https://www.instagram.com/the.j.fashion/reel/DgAiJIWu8uR/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with The J"
+      ]
+    },
+    {
+      "id": "grey-piped-zip-edit",
+      "name": "Grey Piped Zip Edit",
+      "category": "Piped coordinates",
+      "description": "A pale grey zip-front layer and flared trousers with light piping, styled over a white top. Message The J to confirm the exact garment, fit, colour, current availability and price. Tops, accessories, shoes and separate styling pieces are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\05.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/the.j.fashion/reel/DdomNdroscB/",
+      "sourcePosts": [
+        "https://www.instagram.com/the.j.fashion/reel/DdomNdroscB/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with The J"
+      ]
+    },
+    {
+      "id": "brown-piped-zip-edit",
+      "name": "Brown Piped Zip Edit",
+      "category": "Piped coordinates",
+      "description": "A brown zip-front layer and flared trousers with contrasting pale piping, photographed from the front and rear. Message The J to confirm the exact garment, fit, colour, current availability and price. Tops, accessories, shoes and separate styling pieces are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\06.jpg",
+        "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/the.j.fashion/reel/DdgkTM-uKvF/",
+      "sourcePosts": [
+        "https://www.instagram.com/the.j.fashion/reel/DdgkTM-uKvF/",
+        "https://www.instagram.com/the.j.fashion/reel/DdZOvC2orkm/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with The J"
+      ]
+    },
+    {
+      "id": "navy-piped-zip-edit",
+      "name": "Navy Piped Zip Edit",
+      "category": "Piped coordinates",
+      "description": "A navy zip-front layer and flared trousers with contrasting pale piping, shown over a white top. Message The J to confirm the exact garment, fit, colour, current availability and price. Tops, accessories, shoes and separate styling pieces are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\07.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/the.j.fashion/p/DdZSQcBjrvT/",
+      "sourcePosts": [
+        "https://www.instagram.com/the.j.fashion/p/DdZSQcBjrvT/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with The J"
+      ]
+    },
+    {
+      "id": "taupe-stripe-drawstring-look",
+      "name": "Taupe Stripe Drawstring Look",
+      "category": "Relaxed looks",
+      "description": "A taupe long-sleeved top styled with drawstring trousers and pale side-stripe details. Message The J to confirm the exact garment, fit, colour, current availability and price. Tops, accessories, shoes and separate styling pieces are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\09.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/the.j.fashion/reel/DdGgLm2FDJ0/",
+      "sourcePosts": [
+        "https://www.instagram.com/the.j.fashion/reel/DdGgLm2FDJ0/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with The J"
+      ]
+    },
+    {
+      "id": "draped-sleeve-edit",
+      "name": "Draped Sleeve Edit",
+      "category": "Relaxed looks",
+      "description": "Burgundy and black relaxed looks featuring draped sleeves and matching-looking trousers, styled with statement accessories. Ask which version and pieces are available. Message The J to confirm the exact garment, fit, colour, current availability and price. Tops, accessories, shoes and separate styling pieces are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\11.jpg",
+        "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\12.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/the.j.fashion/reel/DclomzLtpHx/",
+      "sourcePosts": [
+        "https://www.instagram.com/the.j.fashion/reel/DclomzLtpHx/",
+        "https://www.instagram.com/the.j.fashion/p/DcjO2gxCCWV/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with The J"
+      ]
+    }
+  ],
+  "activityEvidence": {
+    "source": "https://www.instagram.com/the.j.fashion/",
+    "latestSource": "https://www.instagram.com/the.j.fashion/p/DgCo6lrDomx/",
+    "latestDate": "2026-11-22",
+    "note": "Root directly observed 139K followers and four current public posts dated November22 and21, following a gap afterSeptember. Older images are visual collection references; they do not establish current availability."
+  },
+  "websiteCheck": {
+    "result": "No matching official website or online shop found in the reviewed owner-account bio and bounded handle/name searches. An unlisted website cannot be ruled out.",
+    "queries": [
+      "\"the.j.fashion\" shop website Lebanon",
+      "\"The.j\" \"Joudi\" shop website",
+      "\"the.j.fashion\" \".com\"",
+      "\"the.j.fashion\" \"website\""
+    ],
+    "checkedDate": "2026-11-22",
+    "sources": [
+      "https://www.instagram.com/the.j.fashion/",
+      "https://iqfluence.io/public/top-influencers/lebanese-fashion-influencers"
+    ],
+    "primaryObservation": "Root directly observed owner account with Lebanon location, worldwide shipping and orders via DM; no external link or public phone was shown. No WhatsApp number or branch address inferred."
+  },
+  "imageProvenance": [
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\01.jpg",
+      "sourcePost": "https://www.instagram.com/the.j.fashion/p/DgCo6lrDomx/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/917657043_18115734125241712_924096307224410991_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=a3uoRlYAtmsQ7kNvwGaGUt2&_nc_oc=AdpQMxvRSq8PCSbDsAhCqEJizHU2iBiZAWPKKj2mxJRtYOuYQxiYsLRIgYwoYn6mki0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-e0WNCaeMW2zrSRx7ekVrA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQS5_jZwO-saja5qOu2Ph95Q9b3JddTcK5wiHrddPHUU1A&oe=6B08B34E",
+      "alt": "Photo by The.j on November 22, 2026.",
+      "width": 480,
+      "height": 640,
+      "sha256": "451036e9d581a1b36f3ee822fcc32ddf023497b7623087a26176a30a770509cf",
+      "collectedDate": "2026-11-22",
+      "method": "Root CUA pageAssets public Instagram rendered-image export; native still/Reel-cover JPEG, no extracted frames"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\02.jpg",
+      "sourcePost": "https://www.instagram.com/the.j.fashion/reel/DgCnu_6u5WN/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/921770364_18115733285241712_8048482105044593132_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=xr_hUXUDbLQQ7kNvwHHoWBI&_nc_oc=AdpWjedjLrh4QPeBgxATzA9mqr7sy3txz2wfWQMSiTDp9RKq7JAA4XlgeFZhwpaLk1M&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-e0WNCaeMW2zrSRx7ekVrA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQSki8SkngQO-dnemwhq-IowCKNM16By1OWLCPUoGXg8iQ&oe=6B089552",
+      "alt": "Video by The.j on November 22, 2026. May be an image of sweatpants, turtleneck, jumpsuit, sweatsuit and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "399aa5d2e6a5083a3b063787e2e3017fdbe253046e0db3af5e8f0396bc73cd01",
+      "collectedDate": "2026-11-22",
+      "method": "Root CUA pageAssets public Instagram rendered-image export; native still/Reel-cover JPEG, no extracted frames"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\03.jpg",
+      "sourcePost": "https://www.instagram.com/the.j.fashion/p/DgAvXigljUH/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/918506738_18115671545241712_244943017056253839_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8L0rXc_KKe8Q7kNvwEr3Ocm&_nc_oc=Adpv3DtnRAliemMOWNXws_qCxPI3yMuGeR8U8WAGvds21WY-0-dNu0Tha8CNLdfBJao&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-e0WNCaeMW2zrSRx7ekVrA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTsDKwJ8ABvxNH99hzFEa47SbbZa0AdhOeKFsdUpt7DCQ&oe=6B08A8B8",
+      "alt": "Photo by The.j on November 21, 2026.",
+      "width": 480,
+      "height": 640,
+      "sha256": "e1eea744de6392ab853dce42b875e4c065a711c252b34114358b87ca65535706",
+      "collectedDate": "2026-11-22",
+      "method": "Root CUA pageAssets public Instagram rendered-image export; native still/Reel-cover JPEG, no extracted frames"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\04.jpg",
+      "sourcePost": "https://www.instagram.com/the.j.fashion/reel/DgAiJIWu8uR/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/925296298_18115663043241712_2232716562832759123_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=t2BRwUIgX0IQ7kNvwHlcp9H&_nc_oc=AdrQgTzcUhF06zMgdDTHzDzR2W21ewUz60JTUlyqRmVwo_AKGlZmlgyAzI68X0YCIdA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-e0WNCaeMW2zrSRx7ekVrA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQR-ynz4dP073RH1Kv7Oywlp4gVkmIsSSyxBRyQRviTFvw&oe=6B0893B1",
+      "alt": "Video by The.j on November 21, 2026. May be an image of sweatsuit, drawstring, sweatpants and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "35e895b23abd0857efa4ea2a2055ea19e75d8dc2c069b5aa5d8b22e20ac50795",
+      "collectedDate": "2026-11-22",
+      "method": "Root CUA pageAssets public Instagram rendered-image export; native still/Reel-cover JPEG, no extracted frames"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\05.jpg",
+      "sourcePost": "https://www.instagram.com/the.j.fashion/reel/DdomNdroscB/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/818941461_18109136867241712_3955039339988581946_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=wXGGwPNjOZUQ7kNvwFXyrvW&_nc_oc=Adr34vObJJxLBrsdfzUNt1kJmXBrznssQCjP6nLVHDzNrd0UKv_B9C-FYVw8TzHLCGQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-e0WNCaeMW2zrSRx7ekVrA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQR3S37uvtx0YMY7jBpi9HKQNMQDuaibYprZ-5QDxG0_4g&oe=6B0893C4",
+      "alt": "Video by The.j on September 23, 2026. May be an image of jumpsuit, blazer and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "5c2c5e5324e3bf54bc02fd49d0705e3e39aefdfcaf75d68361752695f9c13242",
+      "collectedDate": "2026-11-22",
+      "method": "Root CUA pageAssets public Instagram rendered-image export; native still/Reel-cover JPEG, no extracted frames"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\06.jpg",
+      "sourcePost": "https://www.instagram.com/the.j.fashion/reel/DdgkTM-uKvF/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/799590730_18108821603241712_1140359006935349732_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=-mReMFKairMQ7kNvwGT_K33&_nc_oc=AdoaKLJQiVkv8Gswd59ESaqKnTnKiUzyNT0U2wb18RmVmQJXzH-23irHvEwtqxKUxJE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-e0WNCaeMW2zrSRx7ekVrA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRBCNtcZHD9e8oIl1PpgMSkybqTjO7LhxAbvq4kwuM7ag&oe=6B089B3D",
+      "alt": "Video by The.j on September 20, 2026. May be an image of fleece, jacket, sweatpants, sweatsuit, drawstring and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "bd9db539045431c565d84a433d0423c164b7b221bd16499de2b5147a6df64667",
+      "collectedDate": "2026-11-22",
+      "method": "Root CUA pageAssets public Instagram rendered-image export; native still/Reel-cover JPEG, no extracted frames"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\07.jpg",
+      "sourcePost": "https://www.instagram.com/the.j.fashion/p/DdZSQcBjrvT/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/813841742_18108527375241712_5121301752089680802_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=RwFKcTCgXaQQ7kNvwG7VlY2&_nc_oc=AdrDZee9usBEJyzf2Th1sv_7-LTFbJFsSZgSL20Aii2rsJwFJfT67aFS5SnC_dwkCI0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-e0WNCaeMW2zrSRx7ekVrA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSAj0NJePuSkmEcHQX2gfXwVjS3pDmIUi5CEPr9rhv_Ig&oe=6B089245",
+      "alt": "Photo by The.j on September 17, 2026.",
+      "width": 522,
+      "height": 640,
+      "sha256": "6abf1af38f9be655d2fa97d4ce138598a0685eaee14160c1b1fbadae8807895f",
+      "collectedDate": "2026-11-22",
+      "method": "Root CUA pageAssets public Instagram rendered-image export; native still/Reel-cover JPEG, no extracted frames"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\08.jpg",
+      "sourcePost": "https://www.instagram.com/the.j.fashion/reel/DdZOvC2orkm/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/814768822_18108525767241712_9117396343243250938_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=PizSgRXYX8UQ7kNvwHBBqLh&_nc_oc=AdqXj-6LX5inlAuBPS5imGpY8gTytWWzbKzuzewkXg6C6mfZDL4P9g33z7f8H9ZvdLE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-e0WNCaeMW2zrSRx7ekVrA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQGqYmD2jSYO7mZcxjRNDgJA-IdAbzmWuZADAIlAXpNZA&oe=6B08A68C",
+      "alt": "Video by The.j on September 17, 2026. May be an image of stripes, jumpsuit, sweatsuit, sweatpants and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "b011b7f0e226e3ec8493abf093c1e15573fde378d060670378d0c2f5e44172f4",
+      "collectedDate": "2026-11-22",
+      "method": "Root CUA pageAssets public Instagram rendered-image export; native still/Reel-cover JPEG, no extracted frames"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\09.jpg",
+      "sourcePost": "https://www.instagram.com/the.j.fashion/reel/DdGgLm2FDJ0/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/801555781_18107748863241712_1786920460083598376_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Y-LNT_BDGxIQ7kNvwHA_Qkg&_nc_oc=AdplAcfQ0167-qaSByLdpUsCDo8Xi4vddQs_zw2tM3gWJaANaX9_Pp9MxAB3FQcVe1s&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-e0WNCaeMW2zrSRx7ekVrA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTgz3MksDabAf_3MQlX94Osaa3SMLbkmaw41Gj2eS3B2Q&oe=6B088F2C",
+      "alt": "Video by The.j on September 10, 2026. May be an image of drawstring, sweatsuit and sweatpants.",
+      "width": 360,
+      "height": 640,
+      "sha256": "6b8d5a3ca1cef8bc6d9c618e546100b21905a390ca6c381567576626923f4fb2",
+      "collectedDate": "2026-11-22",
+      "method": "Root CUA pageAssets public Instagram rendered-image export; native still/Reel-cover JPEG, no extracted frames"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\11.jpg",
+      "sourcePost": "https://www.instagram.com/the.j.fashion/reel/DclomzLtpHx/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/784902993_18106314551241712_6275818490214261495_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=I-UZCeQPL0EQ7kNvwFyvPMz&_nc_oc=Adoxy7iNuiFb_8D7S3tv-BOlmKL_bCEHS1SdIqjciXiK_XnqSYnCAw2zenG6ti74doU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-e0WNCaeMW2zrSRx7ekVrA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQAPOLGnkDaNsTfM28qJRr7tiFRF_sYSWQEHXGq8P1YLg&oe=6B089277",
+      "alt": "Video by The.j on August 28, 2026. May be an image of shawl.",
+      "width": 360,
+      "height": 640,
+      "sha256": "1238177bcf9ec2a58f5e3873aeb6617cc8c2d59ea295b8b214d9ab74c145716f",
+      "collectedDate": "2026-11-22",
+      "method": "Root CUA pageAssets public Instagram rendered-image export; native still/Reel-cover JPEG, no extracted frames"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov22-ten\\the-j-fashion\\assets\\12.jpg",
+      "sourcePost": "https://www.instagram.com/the.j.fashion/p/DcjO2gxCCWV/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/788371125_18106195739241712_3438999972820131411_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=YOw9PrwC55UQ7kNvwG_JlCw&_nc_oc=AdrCuMx-7z_RfgKNuAXRpqSot-NcZheZomF6p7qF-oR6exXPuXk-gve920nBPgdx1Xk&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-e0WNCaeMW2zrSRx7ekVrA&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQTA-jQ-hYqUPjmZUDclID0ja6_8YsKaaeJ-UoTyFh5kw&oe=6B08B03A",
+      "alt": "Photo by The.j on August 27, 2026.",
+      "width": 539,
+      "height": 640,
+      "sha256": "1c1eb40f44c88e14b28190faf4383a8c2526b548c2f2bee8699fd51cf542558e",
+      "collectedDate": "2026-11-22",
+      "method": "Root CUA pageAssets public Instagram rendered-image export; native still/Reel-cover JPEG, no extracted frames"
+    }
+  ],
+  "imageNotes": "Eleven direct owner-account stills used from twelve rendered grid exports. Item10 is a collaborator post by@instyleby_kd and is intentionally excluded. Items01/03/07/12 are native still posts; remaining items are native Reel-cover JPEGs, with no extracted video frames. Pairs03/04,06/08 and11/12 describe related styling variants without asserting bundle contents or identical construction. All catalogue pricesnull; no sizes, stock, fibres, authenticity or shipping prices inferred. Portrait images should be shown with generous contain layouts. Item01 is strongest new hero photograph."
+}

@@ -1,0 +1,166 @@
+{
+  "brand": "The J Fashion",
+  "contactMode": "instagram",
+  "phone": "",
+  "displayPhone": "",
+  "instagram": "https://www.instagram.com/the.j.fashion/",
+  "hours": "Contact The J on Instagram for enquiries",
+  "hero": "/images/photo-ebf61a15a345c4b5.jpg",
+  "story": "/images/photo-bc610a96fa9eaaac.jpg",
+  "galleryImages": [
+    "/images/photo-ebf61a15a345c4b5.jpg",
+    "/images/photo-77711de920c1e47a.jpg",
+    "/images/photo-bc610a96fa9eaaac.jpg",
+    "/images/photo-26f1d67172739822.jpg",
+    "/images/photo-58c48370c336164d.jpg",
+    "/images/photo-93c63c6360bca85c.jpg",
+    "/images/photo-4734f4e0fd423a4a.jpg",
+    "/images/photo-86ebe5f42e5d820b.jpg",
+    "/images/photo-1ff0840280dac015.jpg",
+    "/images/photo-47b5fd3cd0cc7a3a.jpg",
+    "/images/photo-e0e36115a4e7b137.jpg"
+  ],
+  "products": [
+    {
+      "id": "dark-brown-zip-coordinates",
+      "name": "Dark Brown Zip Coordinates",
+      "collection": "Zip front looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A fitted dark brown zip-front top styled with matching-looking flared trousers. Message The J to confirm the exact garment, fit, colour, current availability and price. Tops, accessories, shoes and separate styling pieces are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with The J"
+      ],
+      "images": [
+        "/images/photo-ebf61a15a345c4b5.jpg"
+      ],
+      "source": "https://www.instagram.com/the.j.fashion/p/DgCo6lrDomx/"
+    },
+    {
+      "id": "plum-zip-coordinates",
+      "name": "Plum Zip Coordinates",
+      "collection": "Zip front looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A deep plum zip-front top styled with matching-looking flared trousers. Message The J to confirm the exact garment, fit, colour, current availability and price. Tops, accessories, shoes and separate styling pieces are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with The J"
+      ],
+      "images": [
+        "/images/photo-77711de920c1e47a.jpg"
+      ],
+      "source": "https://www.instagram.com/the.j.fashion/reel/DgCnu_6u5WN/"
+    },
+    {
+      "id": "collared-button-edit",
+      "name": "Collared Button Edit",
+      "collection": "Collared looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Black and cream collared button-front looks with small chest and hip motifs and drawstring trousers. Ask about your preferred colour and the individual pieces. Message The J to confirm the exact garment, fit, colour, current availability and price. Tops, accessories, shoes and separate styling pieces are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with The J"
+      ],
+      "images": [
+        "/images/photo-bc610a96fa9eaaac.jpg",
+        "/images/photo-26f1d67172739822.jpg"
+      ],
+      "source": "https://www.instagram.com/the.j.fashion/p/DgAvXigljUH/"
+    },
+    {
+      "id": "grey-piped-zip-edit",
+      "name": "Grey Piped Zip Edit",
+      "collection": "Piped coordinates",
+      "audience": "The edit",
+      "family": "",
+      "description": "A pale grey zip-front layer and flared trousers with light piping, styled over a white top. Message The J to confirm the exact garment, fit, colour, current availability and price. Tops, accessories, shoes and separate styling pieces are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with The J"
+      ],
+      "images": [
+        "/images/photo-58c48370c336164d.jpg"
+      ],
+      "source": "https://www.instagram.com/the.j.fashion/reel/DdomNdroscB/"
+    },
+    {
+      "id": "brown-piped-zip-edit",
+      "name": "Brown Piped Zip Edit",
+      "collection": "Piped coordinates",
+      "audience": "The edit",
+      "family": "",
+      "description": "A brown zip-front layer and flared trousers with contrasting pale piping, photographed from the front and rear. Message The J to confirm the exact garment, fit, colour, current availability and price. Tops, accessories, shoes and separate styling pieces are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with The J"
+      ],
+      "images": [
+        "/images/photo-93c63c6360bca85c.jpg",
+        "/images/photo-86ebe5f42e5d820b.jpg"
+      ],
+      "source": "https://www.instagram.com/the.j.fashion/reel/DdgkTM-uKvF/"
+    },
+    {
+      "id": "navy-piped-zip-edit",
+      "name": "Navy Piped Zip Edit",
+      "collection": "Piped coordinates",
+      "audience": "The edit",
+      "family": "",
+      "description": "A navy zip-front layer and flared trousers with contrasting pale piping, shown over a white top. Message The J to confirm the exact garment, fit, colour, current availability and price. Tops, accessories, shoes and separate styling pieces are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with The J"
+      ],
+      "images": [
+        "/images/photo-4734f4e0fd423a4a.jpg"
+      ],
+      "source": "https://www.instagram.com/the.j.fashion/p/DdZSQcBjrvT/"
+    },
+    {
+      "id": "taupe-stripe-drawstring-look",
+      "name": "Taupe Stripe Drawstring Look",
+      "collection": "Relaxed looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A taupe long-sleeved top styled with drawstring trousers and pale side-stripe details. Message The J to confirm the exact garment, fit, colour, current availability and price. Tops, accessories, shoes and separate styling pieces are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with The J"
+      ],
+      "images": [
+        "/images/photo-1ff0840280dac015.jpg"
+      ],
+      "source": "https://www.instagram.com/the.j.fashion/reel/DdGgLm2FDJ0/"
+    },
+    {
+      "id": "draped-sleeve-edit",
+      "name": "Draped Sleeve Edit",
+      "collection": "Relaxed looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Burgundy and black relaxed looks featuring draped sleeves and matching-looking trousers, styled with statement accessories. Ask which version and pieces are available. Message The J to confirm the exact garment, fit, colour, current availability and price. Tops, accessories, shoes and separate styling pieces are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with The J"
+      ],
+      "images": [
+        "/images/photo-47b5fd3cd0cc7a3a.jpg",
+        "/images/photo-e0e36115a4e7b137.jpg"
+      ],
+      "source": "https://www.instagram.com/the.j.fashion/reel/DclomzLtpHx/"
+    }
+  ],
+  "services": [],
+  "branches": []
+}
